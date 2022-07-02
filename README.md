@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sergei
 - 👀 I’m interested in creating and hand mading something new
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on future interesting projects.
+- 💞️ I’m looking to collaborate on future interesting projects
 - 📫 How to reach me https://www.linkedin.com/in/siarhei-dzenisevich-02a29915b/
 
 <!---
